@@ -1,0 +1,14 @@
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\bin\Debug\Calculator_02.exe.config
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\bin\Debug\Calculator_02.exe
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\bin\Debug\Calculator_02.pdb
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\obj\Debug\Calculator_02.csprojAssemblyReference.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\obj\Debug\Calculator_02.Form1.resources
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\obj\Debug\Calculator_02.Properties.Resources.resources
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\obj\Debug\Calculator_02.csproj.GenerateResource.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\obj\Debug\Calculator_02.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\obj\Debug\Calculator_02.exe
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\obj\Debug\Calculator_02.pdb
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\bin\Debug\Calculator_02.exe.manifest
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\bin\Debug\Calculator_02.application
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\obj\Debug\Calculator_02.exe.manifest
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Calculator_02\obj\Debug\Calculator_02.application
